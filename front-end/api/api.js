@@ -1,5 +1,4 @@
 import axios from "axios"
-import "dotenv/config"
 
 // const {NODE_ENV} = process.env
 const URL = "https://deploy-jornada-full-stack-9ofe.onrender.com/api"
